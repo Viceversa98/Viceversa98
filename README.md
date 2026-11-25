@@ -22,6 +22,10 @@ React, Next.js, Node.js, TypeScript, PostgreSQL, AWS, Shopify
 - [Sepang Pit Wall](https://www.alifasraf.asia/work/sepang-pit-wall) — in-browser F1 strategy desk and a spectator view of Sepang International Circuit
 - [Melaka Empire Defense](https://www.alifasraf.asia/work/melaka-defence) — browser strategy game where you defend a fort by programming cannon logic
 
+## Writing
+
+- [How to sync orders from an outside system back to Shopify](https://www.alifasraf.asia/guides/shopify-order-sync)
+
 ## Education
 
 - Bachelor of Computer Science (Computer Systems), Universiti Putra Malaysia (UPM), 2021
@@ -31,6 +35,7 @@ React, Next.js, Node.js, TypeScript, PostgreSQL, AWS, Shopify
 
 - [Portfolio](https://www.alifasraf.asia)
 - [Hire / services](https://www.alifasraf.asia/freelance-web-developer-malaysia)
+- [Guides](https://www.alifasraf.asia/guides)
 - [LinkedIn](https://linkedin.com/in/mdalifasraf)
 - [X](https://x.com/goodasraf)
 - [Email](mailto:mdalifasraf@gmail.com)
